@@ -1,5 +1,8 @@
-If you use the original ModShardLauncher: Download Autopathfinder_Patch.zip, install the mod as usual using the .sml file.
-If you use ModShardLauncher-Enhanced: Download Autopathfinder_Standalone.zip. You can either install normally using the .sml file, or you can compile the mod yourself using the Autopathfinder_Standalone folder in the .zip file.
+If you use the original ModShardLauncher: 
+Download Autopathfinder_Patch.zip, install the mod as usual using the .sml file.
+If you use ModShardLauncher-Enhanced: 
+Download Autopathfinder_Standalone.zip. 
+You can either install normally using the .sml file, or you can compile the mod yourself using the Autopathfinder_Standalone folder in the .zip file.
 
 ModShardLauncher-Enhanced: The pathfind key is F3 by default, but compiling the mod yourself allows you to choose the hotkey by editing the line in AutopathfinderStandalone.cs and building the project.
 (C# editor/compiler required. Just use Visual Studio).
