@@ -1,5 +1,5 @@
 If you use the original ModShardLauncher: <br>
-Download Autopathfinder_Patch.zip, install the mod as usual using the .sml file. <br>
+Download Autopathfinder_Patch.zip, install the mod as usual using the .sml file. <br><br>
 If you use ModShardLauncher-Enhanced: <br>
 Download Autopathfinder_Standalone.zip. <br>
 You can either install normally using the .sml file, or you can compile the mod yourself using the Autopathfinder_Standalone folder in the .zip file. <br>
