@@ -6,8 +6,8 @@ If you use ModShardLauncher-Enhanced: <br>
 Download Autopathfinder_Standalone.zip. <br>
 You can either install normally using the .sml file, or you can compile the mod yourself using the Autopathfinder_Standalone folder in the .zip file. <br>
 <br>
-<b><i>The MSL-E Standalone version does not require the original Autopathfinder mod.</i></b> 
-<br>
+<b><i>The MSL-E Standalone version does not require the original Autopathfinder mod.</i></b> <br>
+
 ModShardLauncher-Enhanced: The pathfind key is F3 by default, but compiling the mod yourself allows you to choose the hotkey by editing the line in AutopathfinderStandalone.cs. <br>
 (You can edit the .cs in a text editor). <br>
 
