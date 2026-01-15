@@ -8,12 +8,4 @@ You can either install normally using the .sml file, or you can compile the mod 
 <br>
 <b><i>The MSL-E Standalone version does not require the original Autopathfinder mod.</i></b> <br>
 
-ModShardLauncher-Enhanced: The pathfind key is F3 by default, but compiling the mod yourself allows you to choose the hotkey by editing the line in AutopathfinderStandalone.cs. <br>
-(You can edit the .cs in a text editor). <br>
-
-1. Place Autopathfinder_Standalone folder in the ModSources folder in your ModShardLauncher-Enhanced directory. <br>
-2. Launch ModShardLauncher-Enhanced, and click the <C#> button. <br>
-3. Click COMPILE on Autopathfinder_Standalone <br>
-4. Click the Anvil button and install the new mod as you normally would. <br>
-<br>
 Note: One caveat with MSL-E that I could not get around is getting continuous pathfinding to work, so you will have to hit your pathfind hotkey again each time you transition to a new tile. 
